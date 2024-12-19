@@ -63,5 +63,6 @@ The application includes test cases to verify:
 This project is for educational purposes and is licensed under the MIT License.
 
 For any issues or suggestions, feel free to contact me.
-## MR.Akshay Kumar Email: akshaykumarstm2020@gmail.com
+## Akshay Kumar Email: akshaykumarstm2020@gmail.com
+## www.linkedin.com/in/akshay-kumar-090990249
 ---
